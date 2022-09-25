@@ -1,0 +1,40 @@
+{
+    "files": {
+        "index.html": {
+            "frameworks": [
+                "grindstone-static",
+                "pg.svg.lib",
+                "pg.insight.events",
+                "pg.css.grid",
+                "pg.image.overlay",
+                "pg.code-validator",
+                "pg.project.items",
+                "pg.asset.manager",
+                "pg.html",
+                "pg.components"
+            ],
+            "last_page_width": 1395
+        }
+    },
+    "breakpoints": [],
+    "frameworks": [
+        "grindstone-static",
+        "pg.svg.lib",
+        "pg.insight.events",
+        "pg.css.grid",
+        "pg.image.overlay",
+        "pg.code-validator",
+        "pg.project.items",
+        "pg.asset.manager",
+        "pg.html",
+        "pg.components"
+    ],
+    "urls": {
+        "index.html": {
+            "open-page-views": [{
+                "w": 1395,
+                "h": 0
+            }]
+        }
+    }
+}
