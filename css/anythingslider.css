@@ -326,12 +326,12 @@ div.anythingSlider .start-stop:hover, div.anythingSlider .start-stop.hover { bac
 
 div.anythingSlider, div.anythingSlider .anythingWindow, div.anythingSlider .thumbNav a, div.anythingSlider .arrow a, div.anythingSlider .start-stop {
 
-	transition-duration: 0;
 
 	-o-transition-duration: 0;
 
 	-moz-transition-duration: 0;
 
 	-webkit-transition-duration: 0;
+	transition-duration: 0;
 
 }
